@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "AAZuzJck",
+  "version": "FKspRjmE",
   "assets": [
     {
       "hash": "sha256-+31mPM7FTwdIoR48GVJ7hJwo9EEl17zmVLYHhYSiTlw=",
@@ -66,7 +66,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.wasm"
     },
     {
-      "hash": "sha256-hfGoT4lj/9WAWs1d0xMiXoy7dgG80fEne9nNCBeps+M=",
+      "hash": "sha256-+Qcj0ivDwui305jbqD6PZLzrp0nOzF2SEqB1/G4aD9w=",
       "url": "_framework/Payroll Conversion.wasm"
     },
     {
@@ -198,7 +198,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-BX30LaqNreWBfZgj6+rzQhhRPAWPx6sbYkYsiMFL2pA=",
+      "hash": "sha256-7mddgJKgjTgqmzs6uwoJc6z6eMnY1bbiWf36yHyTz1I=",
       "url": "_framework/blazor.boot.json"
     },
     {
